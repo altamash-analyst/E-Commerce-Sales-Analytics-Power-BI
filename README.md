@@ -5,27 +5,27 @@ A portfolio-ready **Power BI E-Commerce Sales Analytics Dashboard** built with *
 ## Dashboard Preview
 
 ### 1. E-Commerce Overview
-![E-Commerce Overview](PNG/Dashboard%201.PNG)
+![E-Commerce Overview](Dashboard/Dashboard%201.PNG)
 
 Executive view of sales, profit, orders, units sold, AOV, gross margin, category performance, channels, and order status.
 
 ### 2. Product & Category Analysis
-![Product & Category Analysis](PNG/Dashboard%202.PNG)
+![Product & Category Analysis](Dashboard/Dashboard%202.PNG)
 
 Product and category performance using revenue, units sold, gross profit, gross margin, and top-product analysis.
 
 ### 3. Customer Analysis
-![Customer Analysis](PNG/Dashboard%203.PNG)
+![Customer Analysis](Dashboard/Dashboard%203.PNG)
 
 Customer segments, membership levels, revenue, orders, AOV, sales per customer, and customer performance.
 
 ### 4. Regional & Channel Analysis
-![Regional & Channel Analysis](PNG/Dashboard%204.PNG)
+![Regional & Channel Analysis](Dashboard/Dashboard%204.PNG)
 
 Regional, state, sales-channel, payment-method, and monthly channel analysis.
 
 ### 5. Orders, Returns & Management
-![Orders, Returns & Management](PNG/Dashboard%205.PNG)
+![Orders, Returns & Management](Dashboard/Dashboard%205.PNG)
 
 Order status, cancellations, returns, return reasons, revenue achievement, and operational performance.
 
