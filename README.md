@@ -286,13 +286,3 @@ Open to opportunities in:
 **Data Analytics · Business Analysis · Business Intelligence · Power BI Development**
 
 ---
-
-## GitHub SEO
-
-### Repository Description
-
-> Power BI e-commerce analytics dashboard analyzing sales, products, customers, channels, regional performance, orders, returns, profitability and revenue targets using Excel, Power Query and DAX.
-
-### Recommended Topics
-
-`power-bi` `power-bi-dashboard` `dax` `power-query` `excel` `ecommerce-analytics` `sales-analytics` `customer-analytics` `product-analytics` `business-intelligence` `data-analysis` `data-visualization` `retail-analytics` `kpi-dashboard`
