@@ -276,7 +276,7 @@ The final analysis is based on the implemented Power BI report, source workbook,
 
 **Altamash Nizamuddin**  
 Data Analyst  
-**Power BI · Python · MySQL**  
+**Excel · Power BI · Python · MySQL**  
 Mumbai, India
 
 GitHub: **[@altamash-analyst](https://github.com/altamash-analyst)**
