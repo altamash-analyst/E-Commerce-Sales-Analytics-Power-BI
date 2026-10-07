@@ -10,7 +10,7 @@ The project transforms transactional e-commerce data into a five-page interactiv
 
 ### 1. E-Commerce Overview
 
-![E-Commerce Overview](PNG/Dashboard%201.PNG)
+![E-Commerce Overview](Dashboard/Dashboard%201.PNG)
 
 Executive-level overview covering Net Sales, Gross Profit, Total Orders, Units Sold, Average Order Value, Gross Margin, monthly sales trends, category revenue, order status, targets, and sales channels.
 
