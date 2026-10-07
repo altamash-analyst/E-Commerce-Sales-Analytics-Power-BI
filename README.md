@@ -1,4 +1,3 @@
-[E-Commerce-Sales-Analytics-README.md](https://github.com/user-attachments/files/33156432/E-Commerce-Sales-Analytics-README.md)
 # E-Commerce Sales Analytics — Power BI
 
 A portfolio-ready **Power BI E-Commerce Sales Analytics Dashboard** built with **Excel, Power Query, Power BI, and DAX**. The project analyzes sales, products, customers, regions, sales channels, orders, returns, profitability, and revenue targets through five interactive dashboard pages.
