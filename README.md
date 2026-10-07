@@ -16,25 +16,25 @@ Executive-level overview covering Net Sales, Gross Profit, Total Orders, Units S
 
 ### 2. Product & Category Analysis
 
-![Product & Category Analysis](PNG/Dashboard%202.PNG)
+![Product & Category Analysis](Dashboard/Dashboard%202.PNG)
 
 Analyzes top products, category revenue, gross profit, gross margin, average selling price, and the relationship between revenue and profitability.
 
 ### 3. Customer Analysis
 
-![Customer Analysis](PNG/Dashboard%203.PNG)
+![Customer Analysis](Dashboard/Dashboard%203.PNG)
 
 Analyzes customer value, customer segments, membership levels, orders, revenue, Average Order Value, sales per customer, top customers, and customer geography.
 
 ### 4. Regional & Channel Analysis
 
-![Regional & Channel Analysis](PNG/Dashboard%204.PNG)
+![Regional & Channel Analysis](Dashboard/Dashboard%204.PNG)
 
 Analyzes revenue by zone and state, sales-channel performance, monthly channel trends, payment methods, and regional performance.
 
 ### 5. Orders, Returns & Management
 
-![Orders, Returns & Management](PNG/Dashboard%205.PNG)
+![Orders, Returns & Management](Dashboard/Dashboard%205.PNG)
 
 Focuses on order status, cancellations, returns, return reasons, monthly trends, revenue achievement, and operational risks.
 
