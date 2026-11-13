@@ -281,6 +281,10 @@ Mumbai, India
 
 GitHub: **[@altamash-analyst](https://github.com/altamash-analyst)**
 
+**Email:** altamash9876@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/altamash-nizamuddin-a208152a3?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 Open to opportunities in:
 
 **Data Analytics · Business Analysis · Business Intelligence · Power BI Development**
